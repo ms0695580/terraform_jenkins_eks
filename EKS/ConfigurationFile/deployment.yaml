@@ -16,4 +16,4 @@ spec:
       - name: my-react-app
         image: my-react-app
         ports:
-        - containerPort: 5000
+        - containerPort: 80
